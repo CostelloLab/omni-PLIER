@@ -41,6 +41,7 @@ were aligned to the human reference genome (assembly GRCh38) using STAR2 and qua
 the gene level to transcripts per million (TPM).
 
 References:
+
 Galbraith MD, Rachubinski AL, Smith KP, et al. Multidimensional definition of the
 interferonopathy of Down syndrome and its response to JAK inhibition. Sci Adv.
 2023;9(26):eadg6218.
