@@ -1,6 +1,21 @@
 # omni-PLIER
-
+A Pathway-Level Information ExtractoR (PLIER) framework to gain mechanistic insights into obesity in Down syndrome
 # Overview
+Down syndrome (DS), caused by the triplication of chromosome 21 (T21), is a prevalent genetic
+disorder with a higher incidence of obesity. Traditional approaches have struggled to differentiate
+T21-specific molecular dysregulation from general obesity-related processes. This study introduces
+the omni-PLIER framework, combining the Pathway-Level Information ExtractoR (PLIER) with
+the omnigenic model, to uncover molecular mechanisms underlying obesity in DS. The PLIER
+framework aligns gene expression data with biological pathways, facilitating the identification of
+relevant molecular patterns. Using RNA sequencing data from the Human Trisome Project,
+omni-PLIER identified latent variables (LVs) significantly associated with both T21 and body mass
+index (BMI). Elastic net regression and causal mediation analysis revealed LVs mediating the
+effect of karyotype on BMI. Notably, LVs involving glutathione peroxidase-1 (GPX1) and MCL1
+apoptosis regulator, BCL2 family member emerged as crucial mediators. These findings provide
+insights into the molecular interplay between DS and obesity. The omni-PLIER model offers a
+robust methodological advancement for dissecting complex genetic disorders, with implications for
+understanding obesity-related processes in both DS and the general population.
+
 This repository contains the necessary scripts to reproduce the figures from A Pathway-Level Information ExtractoR (PLIER) framework to gain mechanistic insights into obesity in Down syndrome.
 
 # Installation 
