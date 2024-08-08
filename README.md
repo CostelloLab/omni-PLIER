@@ -24,7 +24,8 @@ To download the  necessary scripts, clone this repository with:
 git clone https://github.com/CostelloLab/omni-PLIER.git
 ```
 
-# Dataset: Human Trisome Project (HTP) RNA Sequencing Dataset
+# Dataset: 
+Human Trisome Project (HTP) RNA Sequencing Dataset:
 Under a study protocol approved by the Colorado Multiple Institutional Review Board (COMIRB
 #15-2170), the Crnic Institute enrolled participants as part of the Human Trisome Project (HTP;
 www.trisome.org). Demographic data for study participants were derived from participant and
