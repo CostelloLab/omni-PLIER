@@ -40,6 +40,8 @@ instrument (Novogene). Reads were filtered for low quality, and adapters were tr
 were aligned to the human reference genome (assembly GRCh38) using STAR2 and quantified at
 the gene level to transcripts per million (TPM).
 
+The dataset used in the omni-PLIER analysis can be downloaded from the following URL: https://zenodo.org/record/13308549.
+
 References:
 
 Galbraith MD, Rachubinski AL, Smith KP, et al. Multidimensional definition of the
