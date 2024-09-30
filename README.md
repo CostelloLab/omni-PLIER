@@ -23,6 +23,8 @@ To download the  necessary scripts, clone this repository with:
 ```
 git clone https://github.com/CostelloLab/omni-PLIER.git
 ```
+The following packages are required to RUN omni-PLIER:
+![Alt text](images/omniPLIERPackages.png)
 
 # Dataset: 
 Human Trisome Project (HTP) RNA Sequencing Dataset:
